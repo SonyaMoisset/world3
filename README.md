@@ -1,2 +1,2 @@
 # World3
-3D mapping on World Map
+D3 mapping on World Map
